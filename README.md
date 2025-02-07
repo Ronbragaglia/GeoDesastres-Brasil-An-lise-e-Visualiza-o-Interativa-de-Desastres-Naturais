@@ -84,3 +84,19 @@ Os gráficos de desastres foram criados usando o Plotly para uma visualização 
 Exportação de Dados para CSV:
 
 O conjunto de dados foi exportado para um arquivo CSV chamado 'desastres_naturais_brasil.csv' para facilitar análises posteriores.
+
+As seguintes melhorias foram implementadas no código:
+
+Correção de Polígonos Geográficos:
+
+Adicionei uma função que verifica e corrige a orientação dos polígonos para garantir que sejam renderizados corretamente no mapa.
+Aprimoramento dos Gráficos:
+
+Os gráficos agora incluem marcadores em cada ponto de dados e linhas com maior espessura para melhorar a visualização.
+Visualização de Dados no Colab:
+
+Incluí uma tabela HTML com os dados simulados, exibindo-os diretamente no Colab para uma análise rápida.
+Inclusão de Dependências Extras:
+
+Adicionada a biblioteca shapely para manipulação e correção de geometrias.
+Agora o código está mais robusto para exibir corretamente tanto os mapas interativos quanto os gráficos dinâmicos. 

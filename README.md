@@ -67,3 +67,20 @@ O projeto serve como uma base sólida para pesquisas acadêmicas na área de Ci�
 
 Educação e Conscientização:
 A interface interativa torna o projeto ideal para ser utilizado em programas educacionais voltados à educação ambiental e conscientização pública.
+
+✅ Implementações Realizadas:
+Separação em Sessões:
+
+O código agora está dividido em Seção 1 (Visualização Geográfica) e Seção 2 (Análise de Gráficos), facilitando a organização e execução no Google Colab.
+Exibição Correta do Mapa no Colab:
+
+O mapa interativo do Folium agora é exibido diretamente no Colab usando o método display(m), o que resolve o problema de não conseguir visualizar o mapa por causa da conexão com localhost.
+Controle de Camadas no Mapa:
+
+O controle de camadas (folium.LayerControl()) foi adicionado, permitindo ativar/desativar as camadas de Corrida de Massa, Enxurrada, Perigo e Risco Geológico.
+Gráficos Interativos com Plotly:
+
+Os gráficos de desastres foram criados usando o Plotly para uma visualização dinâmica e interativa no Colab.
+Exportação de Dados para CSV:
+
+O conjunto de dados foi exportado para um arquivo CSV chamado 'desastres_naturais_brasil.csv' para facilitar análises posteriores.

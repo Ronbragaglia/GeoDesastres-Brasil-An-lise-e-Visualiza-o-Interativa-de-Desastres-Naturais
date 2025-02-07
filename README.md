@@ -100,3 +100,10 @@ Inclusão de Dependências Extras:
 
 Adicionada a biblioteca shapely para manipulação e correção de geometrias.
 Agora o código está mais robusto para exibir corretamente tanto os mapas interativos quanto os gráficos dinâmicos. 
+
+![image](https://github.com/user-attachments/assets/1ca87f9d-fd92-4ef1-bbee-2f866b57825a)
+
+![image](https://github.com/user-attachments/assets/43405195-038f-4782-ae74-341768b97591)
+
+![image](https://github.com/user-attachments/assets/1e5f5faa-3592-41a1-bd08-462db8fdc420)
+
